@@ -1,0 +1,8 @@
+var site_tree_node = {
+  "url": "https://forge-javadoc.vercel.app/",
+  "incount": "1",
+  "outcount": "0",
+  "title": "null",
+  "childs": [
+    ]
+}
