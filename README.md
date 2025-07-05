@@ -25,5 +25,5 @@
 | 分支名称       | 部署地址                               |
 |----------------|----------------------------------------|
 | `master`       | <https://forge-javadoc.vercel.app/>    |
-| `forge-54.1`   | <https://forge-javadoc-ld1q.vercel.app/> |
-| `neoforge-1.21.7` | <https://forge-javadoc-7v51.vercel.app/> |
+| `forge-54.1`   | <https://forge-javadoc-git-forge-541-reyi2323s-projects.vercel.app/> |
+| `neoforge-1.21.7` | <https://forge-javadoc-git-neoforge-1217-reyi2323s-projects.vercel.app/> |
