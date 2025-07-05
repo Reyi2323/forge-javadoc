@@ -17,6 +17,7 @@
   `本来想找54.1.3的，但未找到其他可用版本`
 ### `neoforge-1.21.7` 分支
 - NeoForge 21.7.4-beta Modding API for Minecraft 1.21.7
+- 2025/7/5 拉取自1.21.x分支，去掉了无法生成javadoc的base子项目（报错太多）
 
 ## 🚀 部署信息
 采用 Vercel 平台进行静态页面部署：
