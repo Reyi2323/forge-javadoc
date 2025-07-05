@@ -15,6 +15,8 @@
   [MinecraftForge/MinecraftForte @54.1](https://github.com/MinecraftForge/MinecraftForge/tree/54.1)
 - 版本说明:  
   `本来想找54.1.3的，但未找到其他可用版本`
+### `neoforge-1.21.7` 分支
+- NeoForge 21.7.4-beta Modding API for Minecraft 1.21.7
 
 ## 🚀 部署信息
 采用 Vercel 平台进行静态页面部署：
@@ -23,3 +25,4 @@
 |----------------|----------------------------------------|
 | `master`       | <https://forge-javadoc.vercel.app/>    |
 | `forge-54.1`   | <https://forge-javadoc-ld1q.vercel.app/> |
+| `neoforge-1.21.7` | <https://forge-javadoc-7v51.vercel.app/> |
