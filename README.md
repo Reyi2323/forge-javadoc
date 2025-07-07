@@ -18,6 +18,9 @@
 ### `neoforge-1.21.7` 分支
 - NeoForge 21.7.4-beta Modding API for Minecraft 1.21.7
 - 2025/7/5 拉取自1.21.x分支，去掉了无法生成javadoc的base子项目（报错太多）
+### `neoforge-1.20.1` 分支
+- NeoForge 1.20.1-47.1.106 Modding API for Minecraft 1.20.1
+- 拉取自neooforge仓库的1.20.1分支，去掉了clean子项目
 
 ## 🚀 部署信息
 采用 Vercel 平台进行静态页面部署：
@@ -27,3 +30,4 @@
 | `master`       | <https://forge-javadoc.vercel.app/>    |
 | `forge-54.1`   | <https://forge-javadoc-git-forge-541-reyi2323s-projects.vercel.app/> |
 | `neoforge-1.21.7` | <https://forge-javadoc-git-neoforge-1217-reyi2323s-projects.vercel.app/> |
+| `neoforge-1.20.1` | <https://forge-javadoc-git-neoforge-1201-reyi2323s-projects.vercel.app/> |
