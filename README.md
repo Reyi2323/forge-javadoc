@@ -1,6 +1,6 @@
 # forge-javadoc 仓库说明
 
-本仓库用于托管 Forge/NeoForge(以后还会有Fabric) 的 Javadoc 文档
+本仓库用于托管 Forge/NeoForge 的 Javadoc 文档
 
 ## 🏷 分支版本对应关系
 
