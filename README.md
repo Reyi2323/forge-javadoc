@@ -8,7 +8,7 @@
 - Forge 1.12.2-14.23.5.2860 Modding API for Minecraft 1.12.2
 - 拉取自Forge仓库的1.12.x分支
 ### `forge-1.20.1` 分支
-- Forge 1.20.1-47.4.6 Modding API for Minecraft 1.20.1
+- Forge 1.20.1-47.4.9 Modding API for Minecraft 1.20.1
 - 拉取自Forge仓库的1.20.1分支，去掉了fmlonly子项目
 ### `neoforge-1.20.1` 分支
 - NeoForge 1.20.1-47.1.106 Modding API for Minecraft 1.20.1
@@ -18,7 +18,7 @@
 - 拉取自Forge仓库的1.21.4分支
 ### `neoforge-1.21.7` 分支
 - NeoForge 21.7.4-beta Modding API for Minecraft 1.21.7
-- 2025/7/5 拉取自1.21.x分支，去掉了无法生成javadoc的base子项目（报错太多）
+- 拉取自1.21.x分支，去掉了base子项目
 
 ## 🚀 部署信息
 采用 Vercel 平台进行静态页面部署：
